@@ -1,0 +1,1 @@
+Mac只支持ESever 3.x以上版本
